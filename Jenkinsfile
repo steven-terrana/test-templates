@@ -1,1 +1,1 @@
-println "this is the default"
+error "you must select your pipeline template via..."
